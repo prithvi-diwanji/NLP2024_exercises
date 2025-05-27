@@ -1,0 +1,40 @@
+# NLP 2024 Exercises
+
+This repository contains coursework, practice notebooks,
+and project notes for the Natural Language Processing (NLP) 
+course undertaken in 2024. The work spans foundational concepts, hands-on exercises,
+and applied experiments with modern NLP tools and libraries.
+
+## Contents
+
+- **Assignments and Notebooks**: Jupyter notebooks covering various NLP topics and assignments.
+- **Data**: Sample datasets used for processing and modeling.
+- **Models**: Pre-trained and custom-trained model checkpoints.
+- **Scripts**: Python scripts used for preprocessing, training, and evaluation.
+- **Results**: Outputs, graphs, and performance metrics from experiments.
+
+## Topics Covered
+
+- Text preprocessing: tokenization, stemming, lemmatization
+- Vectorization techniques: Bag-of-Words, TF-IDF, Word2Vec
+- Language models and embeddings
+- Text classification and sentiment analysis
+- Named Entity Recognition (NER)
+- Sequence labeling and POS tagging
+- Transformer models (BERT and beyond)
+
+## Tools & Libraries
+
+- Python 3.9+
+- NLTK, spaCy, scikit-learn
+- Hugging Face Transformers
+- Jupyter Notebooks
+- PyTorch / TensorFlow
+
+## Getting Started
+
+To explore the notebooks:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/prith
